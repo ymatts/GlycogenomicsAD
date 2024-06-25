@@ -54,6 +54,8 @@ library(metap)
 
 Data for this project can be downloaded from the following URL as described in our preprint publication: [10.1101/2023.12.25.573290v2](https://www.biorxiv.org/content/10.1101/2023.12.25.573290v2.full).
 
+## Paper Summary
+Glycosylation is increasingly recognized as a potential therapeutic target in Alzheimer’s disease. In recent years, evidence of Alzheimer’s disease-specific glycoproteins has been established. However, the mechanisms underlying their dysregulation, including tissue- and cell-type specificity, are not fully understood. We aimed to explore the upstream regulators of aberrant glycosylation by integrating multiple data sources using a glycogenomics approach. We identified dysregulation of the glycosyltransferase PLOD3 in oligodendrocytes as an upstream regulator of cerebral vessels and found that it is involved in COL4A5 synthesis, which is strongly correlated with amyloid fiber formation. Furthermore, COL4A5 has been suggested to interact with astrocytes via extracellular matrix receptors as a ligand. This study suggests directions for new therapeutic strategies for Alzheimer’s disease targeting glycosyltransferases.
 
 ## Usage
 
