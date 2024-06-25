@@ -61,10 +61,6 @@ Glycosylation is increasingly recognized as a potential therapeutic target in Al
 
 To run the analyses, open the R scripts associated with each section and execute them in your R environment. Make sure to adjust the paths to your data files as necessary.
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit pull requests with your proposed changes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
