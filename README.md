@@ -1,6 +1,6 @@
-# Glycogene Analysis Repository
+# Repository for Glycogenomics Analysis in AD
 
-This repository contains the R scripts and data for performing comprehensive analysis on glycogenes, including data import, initial analysis, meta-analysis, forest plots, network analyses, and pathway analyses using PCA.
+This repository contains the R scripts and data for performing comprehensive analysis on AD glycogenomics, including data import, initial analysis, meta-analysis, forest plots, network analyses, and pathway analyses using PCA.
 
 ## Requirements
 
