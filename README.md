@@ -62,11 +62,4 @@ Contributions to this project are welcome. Please fork the repository and submit
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
 
-### Explanation
-1. **Requirements**: Lists the necessary R packages for someone else to run the project.
-2. **Project Structure**: Briefly describes what each part of the codebase does.
-3. **Usage**: Instructions on how to execute the scripts.
-4. **Contributing**: Guidelines for contributing to the repository.
-5. **License**: Specifies the license under which the project is made available.
-
 This README structure will help users and potential contributors understand and use your project effectively. Adjust the paths and any specific details as necessary for your setup.
