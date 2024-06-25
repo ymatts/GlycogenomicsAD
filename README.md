@@ -49,6 +49,12 @@ library(metap)
 - **Single Cell Analysis**: Single cell analysis using data from the Human Protein Atlas and GSE163577 dataset.
 - **Enrichment Analysis**: Running enrichment analysis using fgsea and other methods.
 
+
+## Data Sources
+
+Data for this project can be downloaded from the following URL as described in our preprint publication: [10.1101/2023.12.25.573290v2](https://www.biorxiv.org/content/10.1101/2023.12.25.573290v2.full).
+
+
 ## Usage
 
 To run the analyses, open the R scripts associated with each section and execute them in your R environment. Make sure to adjust the paths to your data files as necessary.
@@ -61,5 +67,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
-
-This README structure will help users and potential contributors understand and use your project effectively. Adjust the paths and any specific details as necessary for your setup.
